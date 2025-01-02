@@ -1,0 +1,23 @@
+title: Sobre nosotros
+desc: Aleinik Law Firm es una firma de abogados de práctica general que ofrece
+  servicios legales innovadores y confiables a sus clientes en asuntos
+  comerciales y de litigios extensos.
+content:
+  - promo:
+      h1: Sobre nosotros
+      image: https://www.aleiniklaw.com/wp-content/uploads/2021/10/sebastian-pichler-bAQH53VquTc-unsplash.jpg
+      height: short
+  - article:
+      - h2: Quiénes somos y cómo trabajamos
+      - p: Aleinik Law Firm es una firma de abogados de práctica general que brinda
+          servicios legales innovadores y confiables a sus clientes en asuntos
+          comerciales y de litigios. Esto incluye la concesión de licencias y el
+          apoyo a empresas de cannabis para uso adulto en Nueva York.
+      - p: Nuestros clientes varían desde personas privadas hasta empresas emergentes,
+          pequeños negocios y grandes corporaciones establecidas. La filosofía
+          de nuestra firma es establecer relaciones laborales personalizadas con
+          todos nuestros clientes, independientemente de su tamaño o estado.
+          Esto nos permite proporcionar servicios legales efectivos y
+          receptivos. Desde el inicio de cada asunto, ayudamos a nuestros
+          clientes a analizar los riesgos, beneficios y costos asociados,
+          ofreciendo soluciones efectivas y adaptadas.

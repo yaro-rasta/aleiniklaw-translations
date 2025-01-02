@@ -1,0 +1,28 @@
+title: Nuestros clientes
+desc: Aleinik Law Firm es una firma de abogados de práctica general que ofrece
+  servicios legales innovadores y confiables a sus clientes en asuntos
+  comerciales y de litigios extensos.
+content:
+  - promo:
+      h1: Nuestros clientes
+      image: https://www.aleiniklaw.com/wp-content/uploads/2021/10/sebastian-pichler-bAQH53VquTc-unsplash.jpg
+      height: short
+  - article:
+      - p:
+          - $href: https://humanipo.app/
+            a: HumanIPO
+      - p: HumanIPO ayuda a convertir a tus seguidores en accionistas. Es una plataforma
+          abierta donde puedes comprar, vender y canjear acciones.
+      - hr: true
+      - article:
+          - p:
+              - $href: https://www.billfoldpos.com/
+                a: Billfold POS
+          - p: Billfold es una empresa tecnológica innovadora que desarrolla sistemas de
+              pago para grandes eventos.
+      - hr: true
+      - article:
+          - p:
+              - $href: https://liquorwarehouseoffreeport.com/
+                a: Liquor Warehouse Freeport
+          - p: Liquor Warehouse Freeport es la tienda de licores más grande de Long Island.

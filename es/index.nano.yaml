@@ -1,0 +1,11 @@
+title: Inicio
+desc: Aleinik Law Firm es una firma de abogados de práctica general que ofrece
+  servicios legales innovadores y confiables a sus clientes en asuntos
+  comerciales y de litigios extensos.
+content:
+  - promo:
+      title: Soluciones creativas y eficientes para todas sus necesidades legales
+      image: https://www.aleiniklaw.com/wp-content/uploads/2022/07/unnamed6a-scaled.jpg?id=8690
+      link:
+        href: contact-us.html
+        title: Solicitar una consulta

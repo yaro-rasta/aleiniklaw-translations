@@ -1,0 +1,49 @@
+title: Olga Aleinik
+desc: >
+  Olga Aleinik es una abogada confiable que proporciona asesoramiento legal
+  estratégico y agrega valor a sus clientes. Resuelta y creativa, utiliza
+  enfoques innovadores para obtener resultados.
+content:
+  - promo:
+      h1: Abogados
+      image: https://www.aleiniklaw.com/wp-content/uploads/2021/10/sebastian-pichler-bAQH53VquTc-unsplash.jpg
+      height: short
+  - article:
+      - h2: Perfil del abogado
+      - profile: null
+        title: Olga Aleinik
+        image: https://www.aleiniklaw.com/wp-content/uploads/2021/10/olga-aleinik-bio-2.jpg
+        desc: >
+          Olga Aleinik es una abogada confiable que proporciona asesoramiento
+          legal estratégico y agrega valor a sus clientes. Resuelta y creativa,
+          utiliza enfoques innovadores para obtener resultados.
+      - p: >
+          Olga es socia fundadora de Aleinik Law Firm. Posee años de experiencia
+          profesional en litigios comerciales y trabajo transaccional,
+          representando a grandes corporaciones, pequeños negocios y personas
+          individuales en disputas complejas de contratos e propiedad
+          intelectual.
+      - h3: Educación
+      - ul:
+          - Facultad de Derecho de la Universidad de Fordham – Juris Doctor
+          - Brooklyn College – Licenciatura en Ciencias (Negocios, Finanzas)
+      - h3: Admisiones al Colegio de Abogados
+      - ul:
+          - Estado de Nueva York
+          - Estado de Nueva Jersey
+      - h3: Admisiones a Tribunales Federales
+      - ul:
+          - Tribunal de Distrito del Distrito Sur de Nueva York
+          - Tribunal de Distrito del Distrito Este de Nueva York
+      - h3: Membresías en organizaciones profesionales
+      - ul:
+          - Sección de Derecho de Bienes Raíces de la Asociación de Abogados del
+            Estado de Nueva York
+          - Sección de Derecho Comercial de la Asociación de Abogados del Estado
+            de Nueva York
+          - Sección de Derecho del Cannabis de la Asociación de Abogados del
+            Estado de Nueva York
+          - Asociación de Abogados de la Ciudad de Nueva York
+      - h3: Premios
+      - ul:
+          - Premio Archibald R. Murray al Servicio Público
