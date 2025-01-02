@@ -1,0 +1,59 @@
+$lang: be
+nav:
+  - href: index.html
+    text: Галоўная
+  - href: about.html
+    text: Пра нас
+  - href: our-clients.html
+    text: Нашы кліенты
+  - href: attorneys.html
+    text: Адвакаты
+  - href: practice-areas.html
+    text: Напрамкі практыкі
+    children:
+      - href: practice-areas/commercial-and-business-law.html
+        text: Камерцыйнае і бізнес-права
+      - href: practice-areas/landlord-tennant-legal-dispute-lease-review.html
+        title: Спрэчкі паміж уладальнікамі і арандатарамі, аналіз арэндных дагавораў
+      - href: practice-areas/wills-trusts-estate-planning.html
+        title: Запаветы, трасты і планаванне спадчыны
+      - href: practice-areas/cannabis-law-liquor-licenses.html
+        title: Закон аб канабісе і алкагольныя ліцэнзіі
+      - href: practice-areas/labor-and-employment-law.html
+        title: Працоўнае права і права працоўных адносін
+      - href: practice-areas/real-estate-transactions.html
+        title: Здзелкі з нерухомасцю
+  - href: contact-us.html
+    title: Звяжыцеся з намі
+  - href: blog
+    title: Блог
+bottomNav:
+  - title: Важныя спасылкі
+    children:
+      - href: index.html
+        text: Галоўная
+      - href: about.html
+        text: Пра нас
+      - href: our-clients.html
+        text: Нашы кліенты
+      - href: attorneys.html
+        text: Адвакаты
+      - href: practice-areas.html
+        text: Напрамкі практыкі
+      - href: contact-us.html
+        text: Звяжыцеся з намі
+  - title: Асноўныя паслугі
+    children:
+      - href: practice-areas/commercial-and-business-law.html
+        text: Камерцыйнае і бізнес-права
+      - href: practice-areas/landlord-tennant-legal-dispute-lease-review.html
+        title: Спрэчкі паміж уладальнікамі і арандатарамі, аналіз арэндных дагавораў
+      - href: practice-areas/cannabis-law-liquor-licenses.html
+        title: Закон аб канабісе і алкагольныя ліцэнзіі
+copyright: Юрыдычная фірма Aleinik © 2025.
+meta:
+  title: Юрыдычная фірма Aleinik
+  titleSuffix: • Юрыдычная фірма Aleinik
+about: >
+  Юрыдычная фірма Aleinik прадастаўляе інавацыйныя і надзейныя юрыдычныя паслугі
+  ў шырокім дыяпазоне бізнесу і судовых спраў.

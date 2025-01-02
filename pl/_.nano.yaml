@@ -1,0 +1,59 @@
+$lang: pl
+nav:
+  - href: index.html
+    text: Strona główna
+  - href: about.html
+    text: O nas
+  - href: our-clients.html
+    text: Nasi klienci
+  - href: attorneys.html
+    text: Adwokaci
+  - href: practice-areas.html
+    text: Obszary praktyki
+    children:
+      - href: practice-areas/commercial-and-business-law.html
+        text: Prawo handlowe i biznesowe
+      - href: practice-areas/landlord-tennant-legal-dispute-lease-review.html
+        title: Spory między właścicielami a najemcami, przegląd umów najmu
+      - href: practice-areas/wills-trusts-estate-planning.html
+        title: Testamenty, fundusze powiernicze i planowanie majątku
+      - href: practice-areas/cannabis-law-liquor-licenses.html
+        title: Prawo dotyczące konopi i licencje na alkohol
+      - href: practice-areas/labor-and-employment-law.html
+        title: Prawo pracy i zatrudnienia
+      - href: practice-areas/real-estate-transactions.html
+        title: Transakcje nieruchomościowe
+  - href: contact-us.html
+    title: Skontaktuj się z nami
+  - href: blog
+    title: Blog
+bottomNav:
+  - title: Ważne linki
+    children:
+      - href: index.html
+        text: Strona główna
+      - href: about.html
+        text: O nas
+      - href: our-clients.html
+        text: Nasi klienci
+      - href: attorneys.html
+        text: Adwokaci
+      - href: practice-areas.html
+        text: Obszary praktyki
+      - href: contact-us.html
+        text: Skontaktuj się z nami
+  - title: Popularne usługi
+    children:
+      - href: practice-areas/commercial-and-business-law.html
+        text: Prawo handlowe i biznesowe
+      - href: practice-areas/landlord-tennant-legal-dispute-lease-review.html
+        title: Spory między właścicielami a najemcami, przegląd umów najmu
+      - href: practice-areas/cannabis-law-liquor-licenses.html
+        title: Prawo dotyczące konopi i licencje na alkohol
+copyright: Kancelaria prawna Aleinik © 2025.
+meta:
+  title: Kancelaria prawna Aleinik
+  titleSuffix: • Kancelaria prawna Aleinik
+about: >
+  Kancelaria prawna Aleinik świadczy innowacyjne i niezawodne usługi prawne w
+  zakresie szeroko pojętego biznesu i spraw sądowych.

@@ -1,0 +1,39 @@
+title: Olga Aleinik
+desc: >
+  Olga Aleinik to doświadczona prawniczka, która oferuje strategiczne doradztwo
+  prawne i przynosi wartość swoim klientom. Dzięki kreatywnemu i zdecydowanemu
+  podejściu osiąga sukcesy w swojej pracy.
+content:
+  - promo:
+      h1: Adwokaci
+      image: https://www.aleiniklaw.com/wp-content/uploads/2021/10/sebastian-pichler-bAQH53VquTc-unsplash.jpg
+      height: short
+  - article:
+      - h2: Profil adwokata
+      - profile: null
+        title: Olga Aleinik
+        image: https://www.aleiniklaw.com/wp-content/uploads/2021/10/olga-aleinik-bio-2.jpg
+        desc: >
+          Olga Aleinik to doświadczona prawniczka, która oferuje strategiczne
+          doradztwo prawne i przynosi wartość swoim klientom. Dzięki kreatywnemu
+          i zdecydowanemu podejściu osiąga sukcesy w swojej pracy.
+      - p: >
+          Olga jest założycielką kancelarii Aleinik Law Firm. Posiada
+          wieloletnie doświadczenie w dziedzinie procesów sądowych i transakcji
+          handlowych, reprezentując interesy dużych korporacji, małych firm i
+          osób prywatnych.
+      - h3: Wykształcenie
+      - ul:
+          - Uniwersytet Fordham – Doktor nauk prawnych
+          - Brooklyn College – Licencjat z nauk (Biznes, finanse)
+      - h3: Członkostwo w izbach adwokackich
+      - ul:
+          - Adwokatura stanu Nowy Jork
+          - Adwokatura stanu New Jersey
+      - h3: Członkostwo w organizacjach zawodowych
+      - ul:
+          - Nowojorskie stowarzyszenie prawników
+          - Sekcja prawa handlowego Nowojorskiego stowarzyszenia prawników
+      - h3: Nagrody
+      - ul:
+          - Nagroda Archibald R. Murray za służbę publiczną

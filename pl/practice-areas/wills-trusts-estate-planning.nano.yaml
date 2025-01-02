@@ -1,0 +1,10 @@
+title: Testamenty, fundusze powiernicze i planowanie majątku
+desc: Kancelaria prawna Aleinik specjalizuje się w usługach prawnych związanych
+  z planowaniem spadku i majątku.
+content:
+  - h1: Testamenty, fundusze powiernicze i planowanie majątku
+  - p: Pomagamy w sporządzaniu testamentów, tworzeniu funduszy powierniczych i
+      ochronie Twojego majątku.
+  - a: Skontaktuj się z nami
+    $href: contact-us.html
+    $class: btn btn-warning text-uppercase

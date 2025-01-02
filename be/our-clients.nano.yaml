@@ -1,0 +1,26 @@
+title: Нашы кліенты
+desc: Юрыдычная фірма Aleinik прадастаўляе інавацыйныя і надзейныя юрыдычныя
+  паслугі ў шырокім дыяпазоне бізнесу і судовых спраў.
+content:
+  - promo:
+      h1: Нашы кліенты
+      image: https://www.aleiniklaw.com/wp-content/uploads/2021/10/sebastian-pichler-bAQH53VquTc-unsplash.jpg
+      height: short
+  - article:
+      - p:
+          - $href: https://humanipo.app/
+            a: HumanIPO
+      - p: HumanIPO дапамагае ператварыць вашых прыхільнікаў у акцыянераў.
+      - hr: true
+      - article:
+          - p:
+              - $href: https://www.billfoldpos.com/
+                a: Billfold POS
+          - p: Billfold – тэхналагічная кампанія, якая распрацоўвае RFID-сістэмы аплаты для
+              буйных мерапрыемстваў.
+          - hr: true
+      - article:
+          - p:
+              - $href: https://theofflabel.com/
+                a: The Off Label
+          - p: The Off Label – раскошная адзенне, якая вырабляецца на заказ.

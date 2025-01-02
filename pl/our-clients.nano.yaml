@@ -1,0 +1,26 @@
+title: Nasi klienci
+desc: Kancelaria prawna Aleinik świadczy innowacyjne i niezawodne usługi prawne
+  w zakresie szeroko pojętego biznesu i spraw sądowych.
+content:
+  - promo:
+      h1: Nasi klienci
+      image: https://www.aleiniklaw.com/wp-content/uploads/2021/10/sebastian-pichler-bAQH53VquTc-unsplash.jpg
+      height: short
+  - article:
+      - p:
+          - $href: https://humanipo.app/
+            a: HumanIPO
+      - p: HumanIPO pomaga przekształcić Twoich fanów w akcjonariuszy.
+      - hr: true
+      - article:
+          - p:
+              - $href: https://www.billfoldpos.com/
+                a: Billfold POS
+          - p: Billfold to firma technologiczna opracowująca systemy RFID do płatności na
+              dużych wydarzeniach.
+          - hr: true
+      - article:
+          - p:
+              - $href: https://theofflabel.com/
+                a: The Off Label
+          - p: The Off Label to luksusowa odzież szyta na miarę.

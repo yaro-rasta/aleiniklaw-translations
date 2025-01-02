@@ -1,0 +1,18 @@
+title: Prawo handlowe i biznesowe
+desc: Kancelaria prawna Aleinik świadczy kompleksowe usługi prawne wspierające
+  rozwój i ochronę Twojego biznesu.
+content:
+  - h1: Prawo handlowe i biznesowe
+  - p: Oferujemy rozwiązania dostosowane do Twoich potrzeb, które pomagają osiągnąć
+      sukces.
+  - h2: Wybór formy prawnej firmy
+  - p: Pomagamy wybrać najlepszą formę prawną dla Twojego biznesu.
+  - h2: Wsparcie dla startupów
+  - p: Pomoc w zakładaniu firm, ochronie własności intelektualnej i zawieraniu umów.
+  - h2: Relacje pracownicze
+  - p: Tworzenie umów, wsparcie w sporach pracowniczych i audyty.
+  - h2: Zakup firmy i należyta staranność
+  - p: Ocena ryzyk prawnych i finansowych przy zakupie firmy.
+  - a: Skontaktuj się z nami
+    $href: contact-us.html
+    $class: btn btn-warning text-uppercase
