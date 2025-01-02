@@ -1,0 +1,16 @@
+title: Testamentos, fideicomisos y planificación patrimonial
+desc: Servicios legales de Aleinik Law Firm para proteger su patrimonio y
+  planificar su legado.
+content:
+  - h1: Testamentos, fideicomisos y planificación patrimonial
+  - p: Ayudamos a redactar testamentos, crear fideicomisos y planificar la
+      administración de bienes.
+  - p:
+      - "Planificar su patrimonio puede proteger a su familia y garantizar que
+        se cumplan sus deseos. "
+      - $href: contact-us.html
+        a: Contáctenos hoy
+      - " para aprender cómo podemos ayudarle."
+  - a: Contáctenos
+    $href: contact-us.html
+    $class: btn btn-warning text-uppercase

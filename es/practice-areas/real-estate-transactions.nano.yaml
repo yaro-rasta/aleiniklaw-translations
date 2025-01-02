@@ -1,0 +1,21 @@
+title: Transacciones inmobiliarias
+desc: Aleinik Law Firm proporciona servicios legales para la compra y venta de
+  propiedades residenciales y comerciales.
+content:
+  - h1: Transacciones inmobiliarias
+  - p: Ayudamos a compradores y vendedores a navegar procesos de transacciones
+      inmobiliarias.
+  - h2: Representación de compradores y vendedores
+  - p: Asistimos en la negociación de contratos y revisiones de títulos de
+      propiedad.
+  - h2: Soporte durante todo el proceso
+  - p: Ofrecemos orientación en inspecciones, financiamiento y resolución de
+      problemas legales.
+  - h2: Cierre y preparación de documentos
+  - p: Supervisamos el cierre de transacciones y garantizamos el cumplimiento
+      contractual.
+  - h2: Protección contra ejecuciones hipotecarias
+  - p: Brindamos representación legal en casos de ejecución hipotecaria.
+  - a: Contáctenos
+    $href: contact-us.html
+    $class: btn btn-warning text-uppercase

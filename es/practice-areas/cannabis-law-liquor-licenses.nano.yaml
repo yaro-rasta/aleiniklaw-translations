@@ -1,0 +1,20 @@
+title: Leyes sobre el cannabis y licencias de alcohol
+desc: Aleinik Law Firm se especializa en servicios legales para la industria del
+  cannabis y licencias de alcohol en Nueva York y Nueva Jersey.
+content:
+  - h1: Leyes sobre el cannabis y licencias de alcohol
+  - p: Aleinik Law Firm ofrece servicios legales en el complejo y regulado mercado
+      del cannabis y licencias de alcohol.
+  - h2: Licencias para negocios de cannabis
+  - p: Asesoramos sobre la obtención de licencias necesarias para operar legalmente.
+  - h2: Cumplimiento normativo
+  - p: Ayudamos a garantizar que su negocio cumpla con todas las regulaciones
+      locales y estatales.
+  - h2: Protección de la propiedad intelectual
+  - p: Registramos marcas y protegemos invenciones relacionadas con cannabis.
+  - h2: Licencias de alcohol
+  - p: Ofrecemos servicios relacionados con licencias de alcohol, incluyendo
+      solicitudes, renovaciones y cumplimiento normativo.
+  - a: Contáctenos
+    $href: contact-us.html
+    $class: btn btn-warning text-uppercase

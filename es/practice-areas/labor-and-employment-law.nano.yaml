@@ -1,0 +1,22 @@
+title: Derecho laboral y empleo
+desc: Asesoramiento integral sobre derecho laboral y cumplimiento normativo para
+  empresas en Nueva York y Nueva Jersey.
+content:
+  - h1: Derecho laboral y empleo
+  - p: Proporcionamos asistencia legal en auditorías laborales y negociaciones con
+      agencias gubernamentales.
+  - h2: Auditorías del Departamento de Trabajo
+  - p: Asesoramos durante auditorías estatales y federales para garantizar el
+      cumplimiento normativo.
+  - h2: Violaciones salariales y de horas laborales
+  - p: Revisamos prácticas de nómina para evitar conflictos legales y garantizar el
+      cumplimiento de la ley.
+  - h2: Clasificación de empleados
+  - p: Ayudamos a clasificar correctamente a los trabajadores según la legislación
+      aplicable.
+  - h2: Negociaciones con agencias gubernamentales
+  - p: Representamos a nuestros clientes durante negociaciones relacionadas con
+      conflictos laborales.
+  - a: Contáctenos
+    $href: contact-us.html
+    $class: btn btn-warning text-uppercase

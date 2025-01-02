@@ -1,0 +1,22 @@
+title: Derecho comercial y empresarial
+desc: Aleinik Law Firm proporciona servicios legales que apoyan y mejoran sus
+  actividades comerciales.
+content:
+  - h1: Derecho comercial y empresarial
+  - p: Ayudamos a crear soluciones legales adaptadas a las necesidades de su
+      negocio.
+  - h2: Elección de la estructura empresarial
+  - p: Asesoramos en la elección de la estructura jurídica adecuada para su negocio.
+  - h2: Apoyo a empresas emergentes
+  - p: Proporcionamos orientación legal a startups, desde la creación hasta la
+      protección de propiedad intelectual.
+  - h2: Relaciones laborales y cumplimiento normativo
+  - p: Asistimos en la redacción de contratos laborales y garantizamos el
+      cumplimiento de la legislación laboral.
+  - h2: Adquisiciones y diligencia debida
+  - p: Realizamos auditorías legales detalladas antes de la adquisición de negocios.
+  - h2: Resolución de disputas entre socios
+  - p: Representamos sus intereses en casos de disputas comerciales.
+  - a: Contáctenos
+    $href: contact-us.html
+    $class: btn btn-warning text-uppercase
