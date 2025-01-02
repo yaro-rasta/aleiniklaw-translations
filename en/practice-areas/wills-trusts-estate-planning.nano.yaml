@@ -1,0 +1,24 @@
+title: Wills, Trusts and Estate Planning
+desc: At Aleinik Law Firm we specialize in providing comprehensive legal
+  solutions for all your landlord-tenant matters. Our team of experienced
+  attorneys is dedicated to serving clients in a wide range of areas, including
+  landlord-tenant disputes, eviction proceedings, commercial and residential
+  leases review, and negotiation.
+content:
+  - h1: Wills, Trusts and Estate Planning
+  - p: Aleinik Law Firm is focused on helping our clients with all of their estate
+      planning and probate needs, including wills, trusts and other areas. We
+      have substantial experience with estate and trust planning as well as
+      trust and estate administration.
+  - p:
+      - "While it may be difficult to think about becoming incapacitated or
+        dying, setting up a good estate and long-term care plan can help you to
+        ensure that your wishes will be followed and that your family will be
+        protected from potentially devastating expenses. "
+      - $href: contact-us.html
+        a: Contact Aleinik Law Firm
+      - " today to learn about how our local estate lawyers can help you with
+        your estate planning needs."
+  - a: Contact us
+    $href: contact-us.html
+    $class: btn btn-warning text-uppercase

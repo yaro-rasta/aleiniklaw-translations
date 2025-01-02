@@ -1,0 +1,60 @@
+$lang: es
+nav:
+  - href: index.html
+    text: Inicio
+  - href: about.html
+    text: Sobre nosotros
+  - href: our-clients.html
+    text: Nuestros clientes
+  - href: attorneys.html
+    text: Abogados
+  - href: practice-areas.html
+    text: Áreas de práctica
+    children:
+      - href: practice-areas/commercial-and-business-law.html
+        text: Derecho comercial y empresarial
+      - href: practice-areas/landlord-tennant-legal-dispute-lease-review.html
+        title: Disputas legales entre propietario e inquilino y revisión de contratos
+      - href: practice-areas/wills-trusts-estate-planning.html
+        title: Testamentos, fideicomisos y planificación patrimonial
+      - href: practice-areas/cannabis-law-liquor-licenses.html
+        title: Ley del cannabis y licencias de licor
+      - href: practice-areas/labor-and-employment-law.html
+        title: Ley laboral y de empleo
+      - href: practice-areas/real-estate-transactions.html
+        title: Transacciones inmobiliarias
+  - href: contact-us.html
+    title: Contáctenos
+  - href: blog
+    title: Blog
+bottomNav:
+  - title: Enlaces importantes
+    children:
+      - href: index.html
+        text: Inicio
+      - href: about.html
+        text: Sobre nosotros
+      - href: our-clients.html
+        text: Nuestros clientes
+      - href: attorneys.html
+        text: Abogados
+      - href: practice-areas.html
+        text: Áreas de práctica
+      - href: contact-us.html
+        text: Contáctenos
+  - title: Servicios destacados
+    children:
+      - href: practice-areas/commercial-and-business-law.html
+        text: Derecho comercial y empresarial
+      - href: practice-areas/landlord-tennant-legal-dispute-lease-review.html
+        title: Disputas legales entre propietario e inquilino y revisión de contratos
+      - href: practice-areas/cannabis-law-liquor-licenses.html
+        title: Ley del cannabis y licencias de licor
+copyright: Aleinik Law Firm © 2025.
+meta:
+  title: Aleinik Law Firm
+  titleSuffix: • Aleinik Law Firm
+about: >
+  Aleinik Law Firm es una firma de abogados de práctica general que ofrece
+  servicios legales innovadores y confiables a sus clientes en asuntos
+  comerciales y de litigios extensos.

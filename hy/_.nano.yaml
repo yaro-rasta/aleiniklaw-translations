@@ -1,0 +1,60 @@
+$lang: hy
+nav:
+  - href: index.html
+    text: Գլխավոր
+  - href: about.html
+    text: Մեր մասին
+  - href: our-clients.html
+    text: Մեր հաճախորդները
+  - href: attorneys.html
+    text: Փաստաբաններ
+  - href: practice-areas.html
+    text: Գործունեության ոլորտները
+    children:
+      - href: practice-areas/commercial-and-business-law.html
+        text: Առևտրային և բիզնես իրավունք
+      - href: practice-areas/landlord-tennant-legal-dispute-lease-review.html
+        title: Տնտեսի և վարձակալողի իրավական վեճեր և վարձակալական պայմանագրի վերանայում
+      - href: practice-areas/wills-trusts-estate-planning.html
+        title: Կամք, վստահություն և ժառանգական պլանավորում
+      - href: practice-areas/cannabis-law-liquor-licenses.html
+        title: Կանաբիսի իրավաբանություն և ալկոհոլի լիցենզիաներ
+      - href: practice-areas/labor-and-employment-law.html
+        title: Աշխատանքային և զբաղվածության իրավունքի ոլորտ
+      - href: practice-areas/real-estate-transactions.html
+        title: Անշարժ գույքի գործարքներ
+  - href: contact-us.html
+    title: Կապ մեզ հետ
+  - href: blog
+    title: Բլոգ
+bottomNav:
+  - title: Կարևոր հղումներ
+    children:
+      - href: index.html
+        text: Գլխավոր
+      - href: about.html
+        text: Մեր մասին
+      - href: our-clients.html
+        text: Մեր հաճախորդները
+      - href: attorneys.html
+        text: Փաստաբաններ
+      - href: practice-areas.html
+        text: Գործունեության ոլորտները
+      - href: contact-us.html
+        text: Կապ մեզ հետ
+  - title: Առանձնահատուկ ծառայություններ
+    children:
+      - href: practice-areas/commercial-and-business-law.html
+        text: Առևտրային և բիզնես իրավունք
+      - href: practice-areas/landlord-tennant-legal-dispute-lease-review.html
+        title: Տնտեսի և վարձակալողի իրավական վեճեր և վարձակալական պայմանագրի վերանայում
+      - href: practice-areas/cannabis-law-liquor-licenses.html
+        title: Կանաբիսի իրավաբանություն և ալկոհոլի լիցենզիաներ
+copyright: Aleinik Law Firm © 2025.
+meta:
+  title: Aleinik իրավաբանական գրասենյակ
+  titleSuffix: • Aleinik իրավաբանական գրասենյակ
+about: >
+  Aleinik իրավաբանական գրասենյակը ընդհանուր պրակտիկայի իրավաբանական
+  կազմակերպություն է, որը տրամադրում է նորարարական և վստահելի իրավաբանական
+  ծառայություններ իր հաճախորդներին՝ բիզնեսի և դատական հարցերում:

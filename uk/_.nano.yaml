@@ -1,0 +1,60 @@
+$lang: uk
+nav:
+  - href: index.html
+    text: Головна
+  - href: about.html
+    text: Про нас
+  - href: our-clients.html
+    text: Наші клієнти
+  - href: attorneys.html
+    text: Адвокати
+  - href: practice-areas.html
+    text: Галузі практики
+    children:
+      - href: practice-areas/commercial-and-business-law.html
+        text: Комерційне право та бізнес-право
+      - href: practice-areas/landlord-tennant-legal-dispute-lease-review.html
+        title: Юридичні спори між орендодавцем та орендарем, огляд договорів оренди
+      - href: practice-areas/wills-trusts-estate-planning.html
+        title: Заповіти, трасти та планування спадщини
+      - href: practice-areas/cannabis-law-liquor-licenses.html
+        title: Законодавство про канабіс та алкогольні ліцензії
+      - href: practice-areas/labor-and-employment-law.html
+        title: Трудове право та право зайнятості
+      - href: practice-areas/real-estate-transactions.html
+        title: Операції з нерухомістю
+  - href: contact-us.html
+    title: Зв'язатися з нами
+  - href: blog
+    title: Блог
+bottomNav:
+  - title: Важливі посилання
+    children:
+      - href: index.html
+        text: Головна
+      - href: about.html
+        text: Про нас
+      - href: our-clients.html
+        text: Наші клієнти
+      - href: attorneys.html
+        text: Адвокати
+      - href: practice-areas.html
+        text: Галузі практики
+      - href: contact-us.html
+        text: Зв'язатися з нами
+  - title: Популярні послуги
+    children:
+      - href: practice-areas/commercial-and-business-law.html
+        text: Комерційне право та бізнес-право
+      - href: practice-areas/landlord-tennant-legal-dispute-lease-review.html
+        title: Юридичні спори між орендодавцем та орендарем, огляд договорів оренди
+      - href: practice-areas/cannabis-law-liquor-licenses.html
+        title: Законодавство про канабіс та алкогольні ліцензії
+copyright: Юридична фірма Aleinik © 2025.
+meta:
+  title: Юридична фірма Aleinik
+  titleSuffix: • Юридична фірма Aleinik
+about: >
+  Юридична фірма Aleinik — це багатопрофільна юридична фірма, яка надає
+  інноваційні та надійні юридичні послуги своїм клієнтам у сфері бізнесу та
+  судових спорів.

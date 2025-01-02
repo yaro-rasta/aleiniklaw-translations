@@ -1,0 +1,29 @@
+title: Մեր հաճախորդները
+desc: Aleinik իրավաբանական գրասենյակը ընդհանուր պրակտիկայի իրավաբանական
+  կազմակերպություն է, որը տրամադրում է նորարարական և վստահելի իրավաբանական
+  ծառայություններ իր հաճախորդներին՝ բիզնեսի և դատական հարցերում
+content:
+  - promo:
+      h1: Մեր հաճախորդները
+      image: https://www.aleiniklaw.com/wp-content/uploads/2021/10/sebastian-pichler-bAQH53VquTc-unsplash.jpg
+      height: short
+  - article:
+      - p:
+          - $href: https://humanipo.app/
+            a: HumanIPO
+      - p: >
+          HumanIPO-ն օգնում է ձեր երկրպագուներին դառնալ բաժնետերեր: Այն բաց
+          շուկա է, որտեղ կարող եք գնել, վաճառել և փոխել բաժնետոմսերը։
+      - hr: true
+      - article:
+          - p:
+              - $href: https://www.billfoldpos.com/
+                a: Billfold POS
+          - p: Billfold-ը տեխնոլոգիայի առաջատարն է, որը ստեղծում է իրադարձությունների համար
+              անվտանգ վճարային համակարգեր։
+      - hr: true
+      - article:
+          - p:
+              - $href: https://liquorwarehouseoffreeport.com/
+                a: Liquor Warehouse Freeport
+          - p: Freeport-ի Liquor Warehouse-ը Long Island-ի խոշորագույն խմիչքների խանութն է։

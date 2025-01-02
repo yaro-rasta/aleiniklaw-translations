@@ -1,0 +1,29 @@
+title: Наші клієнти
+desc: Юридична фірма Aleinik — це багатопрофільна юридична фірма, яка надає
+  інноваційні та надійні юридичні послуги своїм клієнтам у сфері бізнесу та
+  судових спорів.
+content:
+  - promo:
+      h1: Наші клієнти
+      image: https://www.aleiniklaw.com/wp-content/uploads/2021/10/sebastian-pichler-bAQH53VquTc-unsplash.jpg
+      height: short
+  - article:
+      - p:
+          - $href: https://humanipo.app/
+            a: HumanIPO
+      - p: HumanIPO допомагає перетворити ваших шанувальників на акціонерів. Це відкрита
+          платформа, де ви можете купувати, продавати та обмінювати акції.
+      - hr: true
+      - article:
+          - p:
+              - $href: https://www.billfoldpos.com/
+                a: Billfold POS
+          - p: Billfold — це провідна технологічна компанія, яка створює платіжні системи
+              для великих заходів.
+      - hr: true
+      - article:
+          - p:
+              - $href: https://liquorwarehouseoffreeport.com/
+                a: Liquor Warehouse Freeport
+          - p: Liquor Warehouse Freeport — найбільший магазин алкогольної продукції в
+              Лонг-Айленді.

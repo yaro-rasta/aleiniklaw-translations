@@ -1,0 +1,65 @@
+title: Our clients
+desc: Aleinik Law Firm is a general practice law firm that is providing
+  innovative and reliable legal services to its clients in extensive business
+  and litigation matters
+content:
+  - promo:
+      h1: Our clients
+      image: https://www.aleiniklaw.com/wp-content/uploads/2021/10/sebastian-pichler-bAQH53VquTc-unsplash.jpg
+      height: short
+  - article:
+      - p:
+          - $href: https://humanipo.app/
+            a: HumanIPO
+      - p: HumanIPO helps to turn your fans into shareholders. It's an open market where
+          you can buy, sell and redeem shares in creators you believe in.
+      - hr: true
+      - article:
+          - p:
+              - $href: https://www.billfoldpos.com/
+                a: Billfold POS
+          - p: Billfold is an innovative tech pioneer that creates the Point of Sale system
+              for large entertainment and sport events. The company develops a
+              secure RFID Payment Technology with the industry's fastest and
+              most user-friendly cashless solutions.
+          - hr: true
+      - article:
+          - p:
+              - $href: https://theofflabel.com/
+                a: The Off Label
+          - p: The Off Label is a made-to-measure clothing line based in New York City. The
+              Off Label is redefining luxury through its custom and personalized
+              approach.
+          - hr: true
+      - article:
+          - p:
+              - $href: https://www.prmdcleaning.com/
+                a: PRMD Cleaning Inc.
+          - p: PRMD Cleaning is providing exceptional hi-tech cleaning and disinfection
+              services for commercial spaces and venues in NY, NJ, GA, FL & CA.
+          - hr: true
+      - article:
+          - p:
+              - $href: https://liquorwarehouseoffreeport.com/
+                a: Liquor Warehouse of Freeport
+          - p: Liquor Warehouse Freeport is Long Island’s largest liquor store enterprise
+              that offers a premium selection of products, as well as
+              professional fast service. It has been highly praised and
+              recognized with various awards by Nassau County, Mayor and Board
+              of Trustees of the Village of Freeport and its loyal customers.
+          - hr: true
+      - article:
+          - p:
+              - $href: https://freedomfmradio.com/
+                a: Freedom FM 104.7 FM
+          - p: Freedom FM is most listened-to Russian Speaking radio station in New York and
+              Miami and the producer of award-winning programs and podcasts.
+          - hr: true
+      - article:
+          - p: RMY 18 Realty, Inc.
+          - hr: true
+      - article:
+          - p: G & S Consulting Inc.
+          - hr: true
+      - article:
+          - p: Logos Consulting, LLC

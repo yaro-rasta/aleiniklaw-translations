@@ -1,0 +1,60 @@
+$lang: en
+nav:
+  - href: index.html
+    text: Home
+  - href: about.html
+    text: About us
+  - href: our-clients.html
+    text: Our clients
+  - href: attorneys.html
+    text: Attorneys
+  - href: practice-areas.html
+    text: Practice areas
+    children:
+      - href: practice-areas/commercial-and-business-law.html
+        text: Commercial law and business law
+      - href: practice-areas/landlord-tennant-legal-dispute-lease-review.html
+        title: Landlord/Tennant Legal Dispute and Lease Review
+      - href: practice-areas/wills-trusts-estate-planning.html
+        title: Wills, Trusts and Estate Planning
+      - href: practice-areas/cannabis-law-liquor-licenses.html
+        title: Cannabis Law and Liquor Licenses
+      - href: practice-areas/labor-and-employment-law.html
+        title: Labor and Employment Law
+      - href: practice-areas/real-estate-transactions.html
+        title: Real Estate Transactions
+  - href: contact-us.html
+    title: Contact us
+  - href: blog
+    title: Blog
+bottomNav:
+  - title: Important links
+    children:
+      - href: index.html
+        text: Home
+      - href: about.html
+        text: About us
+      - href: our-clients.html
+        text: Our clients
+      - href: attorneys.html
+        text: Attorneys
+      - href: practice-areas.html
+        text: Practice areas
+      - href: contact-us.html
+        text: Contact us
+  - title: Featured services
+    children:
+      - href: practice-areas/commercial-and-business-law.html
+        text: Commercial law and business law
+      - href: practice-areas/landlord-tennant-legal-dispute-lease-review.html
+        title: Landlord/Tennant Legal Dispute and Lease Review
+      - href: practice-areas/cannabis-law-liquor-licenses.html
+        title: Cannabis Law and Liquor Licenses
+copyright: Aleinik Law Firm © 2025.
+meta:
+  title: Aleinik Law Firm
+  titleSuffix: • Aleinik Law Firm
+about: >
+  Aleinik Law Firm is a general practice law firm that is providing innovative
+  and reliable legal services to its clients in extensive business and
+  litigation matters
